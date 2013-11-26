@@ -1,0 +1,54 @@
+body{
+	color:black;
+	background:gray;
+	border:15px solid black;
+	font-size 60;
+	font-family:sans-serif;
+}
+	div{
+	margin:auto;
+	text-align:center;
+}
+li{ 
+
+	color:gray;
+	text-decoration: none;
+	padding-right: 10px;
+}
+li a:hover{
+	text-decoration: underline;
+	color:black;
+
+
+}
+label{
+	color:gold;
+
+}
+#heading{  
+	display:inline;
+
+}
+textarea{
+	vertical-align: -25px;
+
+
+}
+p{
+	color:black;
+
+}
+
+a {
+	color:gold;
+	letter-spacing:5px;
+	text-decoration: none;
+}
+h1 {
+	text-shadow: 5px 10px 2px black;
+}
+
+h3{ 
+	text-shadow: 5px 5px 2px black;
+	font-size: 25px;
+}
